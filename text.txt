@@ -1,0 +1,42 @@
+CRUD
+
+Create: POST
+Read: GET
+Update: PUT (or PATCH)
+Delete: DELETE
+
+
+
+{
+  "name": "Margherita 🍕",
+  "order": 1,
+  "completed": false,
+  "toppings": ["tomato sauce", "mozzarella cheese", "fresh basil"],
+  "id": ""
+}
+  
+{
+  "name": "Pepperoni 🍕",
+  "order": 2,
+  "completed": false,
+  "toppings": ["tomato sauce", "mozzarella cheese", "pepperoni"],
+  "id": ""
+}
+
+  {
+  "name": "Vegetarian 🍕",
+  "order": 3,
+  "completed": false,
+  "toppings": ["tomato sauce", "mozzarella cheese", "bell peppers", "onion", "mushrooms"],
+  "id": ""
+}
+
+  {
+  "name": "hawaiana 🍕",
+  "order": 4,
+  "completed": false,
+  "toppings": ["tomato sauce", "mozzarella cheese", "bell peppers", "onion", "mushrooms"],
+  "id": ""
+}
+
+
